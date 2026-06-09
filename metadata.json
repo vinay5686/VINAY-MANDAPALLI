@@ -1,0 +1,6 @@
+{
+  "name": "ASR",
+  "description": "All Services Received (ASR) - A unified, offline-persistent portal for Customers, Vendors, Delivery Riders, and Dispatch Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
